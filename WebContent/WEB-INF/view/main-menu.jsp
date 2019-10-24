@@ -10,6 +10,10 @@ This is an example
 
 </h2>
 
+<hr>
+
+<a href="showForm">Hello world form</a>
+
 </body>
 
 
